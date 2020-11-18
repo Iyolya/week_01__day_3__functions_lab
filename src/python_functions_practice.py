@@ -8,11 +8,18 @@ def add(number1, number2):
       return number1 + number2
 # 3.
 
-def test_subtract(number1, number2):
+def subtract(number1, number2):
       return number1 - number2
 
 # 4.
 
+def multiply(number1, number2):
+      return number1 * number2      
+
+# 5.
+
+def divide(number1, number2):
+      return number1 / number2
 
 # 2.
 # 2.
